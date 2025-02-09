@@ -1,0 +1,47 @@
+.education-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+}
+
+.education-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    padding: 0;
+}
+
+.education-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 15px;
+    display: inline-block;
+}
+
+.round-button {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    background: none;
+}
+
+.round-button i {
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.sort-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

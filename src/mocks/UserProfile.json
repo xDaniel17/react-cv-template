@@ -1,0 +1,246 @@
+{
+    "record": [
+        {
+            "id": "link",
+            "data": {
+                "contactInfo": {
+                    "name": "Link",
+                    "title": {
+                        "en": "Hero of Hyrule",
+                        "es": "Héroe de Hyrule"
+                    },
+                    "location": "Hyrule",
+                    "profilePhotoUrl": "https://special.goodsmile.info/figma_link_tearsofthekingdom/images/img_mv.png",
+                    "urlExternas": [
+                        {
+                            "iconClass": "fab fa-linkedin",
+                            "url": "https://www.linkedin.com/in/link-heroofhyrule/"
+                        },
+                        {
+                            "iconClass": "fab fa-github",
+                            "url": "https://github.com/linkhero"
+                        },
+                        {
+                            "iconClass": "fa-brands fa-whatsapp",
+                            "url": "https://wa.me/123456789"
+                        },
+                        {
+                            "iconClass": "fa-regular fa-envelope",
+                            "url": "mailto:link.hero@hyrule.com"
+                        },
+                        {
+                            "iconClass": "fa-solid fa-mobile",
+                            "url": "tel:+123456789"
+                        }
+                    ]
+                },
+                "about": {
+                    "title": {
+                        "en": "About Me",
+                        "es": "Sobre Mí"
+                    },
+                    "description": {
+                        "en": "I am a courageous warrior dedicated to protecting the kingdom of Hyrule. Known for my bravery, swordsmanship, and ability to solve complex puzzles. I value loyalty, adventure, and the pursuit of justice. I thrive in challenging environments and enjoy exploring uncharted territories.",
+                        "es": "Soy un valiente guerrero dedicado a proteger el reino de Hyrule. Conocido por mi valentía, habilidad con la espada y capacidad para resolver complejos acertijos. Valoro la lealtad, la aventura y la búsqueda de la justicia. Me desenvuelvo bien en entornos desafiantes y disfruto explorando territorios desconocidos."
+                    }
+                },
+                "technologies": {
+                    "title": {
+                        "en": "Technologies",
+                        "es": "Tecnologías"
+                    },
+                    "list": [
+                        {
+                            "name": {
+                                "en": "Swordsmanship",
+                                "es": "Manejo de Espada"
+                            },
+                            "iconClass": "fa-solid fa-sword"
+                        },
+                        {
+                            "name": {
+                                "en": "Archery",
+                                "es": "Arquería"
+                            },
+                            "iconClass": "fa-solid fa-bow-arrow"
+                        },
+                        {
+                            "name": {
+                                "en": "Magic",
+                                "es": "Magia"
+                            },
+                            "iconClass": "fa-solid fa-magic"
+                        },
+                        {
+                            "name": {
+                                "en": "Shield Defense",
+                                "es": "Defensa con Escudo"
+                            },
+                            "iconClass": "fa-solid fa-shield"
+                        },
+                        {
+                            "name": {
+                                "en": "Stealth",
+                                "es": "Sigilo"
+                            },
+                            "iconClass": "fa-solid fa-mask"
+                        },
+                        {
+                            "name": {
+                                "en": "Herbal Medicine",
+                                "es": "Medicina Herbal"
+                            },
+                            "iconClass": "fa-solid fa-leaf"
+                        },
+                        {
+                            "name": {
+                                "en": "Puzzle Solving",
+                                "es": "Resolución de Puzzles"
+                            },
+                            "iconClass": "fa-solid fa-puzzle-piece"
+                        }
+                    ]
+                },
+                "experience": {
+                    "title": {
+                        "en": "Experience",
+                        "es": "Experiencia"
+                    },
+                    "list": [
+                        {
+                            "company": "Hyrule Royal Family",
+                            "position": {
+                                "en": "Hero of Time",
+                                "es": "Héroe del Tiempo"
+                            },
+                            "start": "1998-11-21",
+                            "end": "",
+                            "description": {
+                                "en": [
+                                    "Defeated numerous enemies and bosses to protect the kingdom.",
+                                    "Recovered ancient artifacts and solved intricate puzzles to advance quests.",
+                                    "Collaborated with various allies, including Princess Zelda and the Sages, to thwart evil plans."
+                                ],
+                                "es": [
+                                    "Derrotó numerosos enemigos y jefes para proteger el reino.",
+                                    "Recuperó artefactos antiguos y resolvió intrincados acertijos para avanzar en las misiones.",
+                                    "Colaboró con varios aliados, incluyendo a la Princesa Zelda y los Sabios, para frustrar planes malvados."
+                                ]
+                            }
+                        },
+                        {
+                            "company": "Knights of Hyrule",
+                            "position": {
+                                "en": "Knight",
+                                "es": "Caballero"
+                            },
+                            "start": "1991-11-21",
+                            "end": "1998-11-20",
+                            "description": {
+                                "en": [
+                                    "Participated in battles and defended Hyrule from various threats.",
+                                    "Trained in advanced combat techniques and weapon mastery.",
+                                    "Assisted in the planning and execution of strategic missions."
+                                ],
+                                "es": [
+                                    "Participó en batallas y defendió Hyrule de diversas amenazas.",
+                                    "Entrenamiento en técnicas de combate avanzadas y dominio de armas.",
+                                    "Asistió en la planificación y ejecución de misiones estratégicas."
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "projects": {
+                    "title": {
+                        "en": "Projects",
+                        "es": "Proyectos"
+                    },
+                    "list": [
+                        {
+                            "title": {
+                                "en": "Restoration of Hyrule",
+                                "es": "Restauración de Hyrule"
+                            },
+                            "description": {
+                                "en": "A comprehensive project to rebuild and restore the kingdom of Hyrule after the defeat of Calamity Ganon. This project involves the reconstruction of key landmarks, fortifications, and the implementation of new defense systems.",
+                                "es": "Un proyecto integral para reconstruir y restaurar el reino de Hyrule después de la derrota de Calamity Ganon. Este proyecto implica la reconstrucción de puntos de referencia clave, fortificaciones y la implementación de nuevos sistemas de defensa."
+                            },
+                            "link": "https://example.com/restoration-of-hyrule"
+                        },
+                        {
+                            "title": {
+                                "en": "Guardian Technology Enhancement",
+                                "es": "Mejora de la Tecnología de Guardianes"
+                            },
+                            "description": {
+                                "en": "An initiative to upgrade the ancient Guardian technology to better protect Hyrule. This includes enhancing their combat capabilities, improving their defense mechanisms, and integrating them with the kingdom's new security protocols.",
+                                "es": "Una iniciativa para mejorar la tecnología antigua de los Guardianes para proteger mejor a Hyrule. Esto incluye mejorar sus capacidades de combate, mejorar sus mecanismos de defensa e integrarlos con los nuevos protocolos de seguridad del reino."
+                            },
+                            "link": "https://example.com/guardian-technology-enhancement"
+                        },
+                        {
+                            "title": {
+                                "en": "Hyrule Wildlife Conservation",
+                                "es": "Conservación de la Vida Silvestre de Hyrule"
+                            },
+                            "description": {
+                                "en": "A project focused on the conservation and protection of Hyrule's diverse wildlife. This involves creating protected areas, breeding programs for endangered species, and educating the public on the importance of wildlife preservation.",
+                                "es": "Un proyecto centrado en la conservación y protección de la diversa vida silvestre de Hyrule. Esto implica la creación de áreas protegidas, programas de cría para especies en peligro de extinción y la educación del público sobre la importancia de la preservación de la vida silvestre."
+                            },
+                            "link": "https://example.com/hyrule-wildlife-conservation"
+                        },
+                        {
+                            "title": {
+                                "en": "Magic and Alchemy Research",
+                                "es": "Investigación de Magia y Alquimia"
+                            },
+                            "description": {
+                                "en": "A research project dedicated to exploring and advancing the fields of magic and alchemy in Hyrule. This includes discovering new spells, creating powerful potions, and understanding the ancient magical artifacts found throughout the kingdom.",
+                                "es": "Un proyecto de investigación dedicado a explorar y avanzar en los campos de la magia y la alquimia en Hyrule. Esto incluye descubrir nuevos hechizos, crear pociones poderosas y comprender los antiguos artefactos mágicos encontrados en todo el reino."
+                            },
+                            "link": "https://example.com/magic-and-alchemy-research"
+                        }
+                    ]
+                },
+                "education": {
+                    "title": {
+                        "en": "Education",
+                        "es": "Formación Académica"
+                    },
+                    "list": [
+                        {
+                            "institution": {
+                                "en": "Hyrule Combat Academy",
+                                "es": "Academia de Combate de Hyrule"
+                            },
+                            "degree": {
+                                "en": "Master of Swordsmanship",
+                                "es": "Maestro en Manejo de Espada"
+                            },
+                            "start": "1990-01-01",
+                            "end": "1991-01-01"
+                        },
+                        {
+                            "institution": {
+                                "en": "Great Deku Tree",
+                                "es": "Gran Árbol Deku"
+                            },
+                            "degree": {
+                                "en": "Guardian of the Forest",
+                                "es": "Guardia del Bosque"
+                            },
+                            "start": "1989-01-01",
+                            "end": "1990-01-01"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "id": "67992cd8ad19ca34f8f5f950",
+        "private": true,
+        "createdAt": "2025-01-28T19:15:36.463Z"
+    }
+}

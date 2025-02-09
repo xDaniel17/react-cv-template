@@ -1,0 +1,5 @@
+.theme-selector {
+    display: flex;
+    justify-content: start;
+    margin: 10px;
+}
