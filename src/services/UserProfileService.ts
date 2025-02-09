@@ -14,10 +14,10 @@ export class UserProfileService {
 
     private static async fetchFromAPI(userId: string): Promise<RootObject> {
         try {
-            const response = await fetch(`${import.meta.env.API_URL}`, {
+            const response = await fetch(`${import.meta.env.VITE_API_URL}`, {
                 headers: {
-                    'X-Master-Key': import.meta.env.MASTER_KEY,
-                    'X-Access-Key': import.meta.env.ACCESS_KEY,
+                    'X-Master-Key': import.meta.env.VITE_MASTER_KEY,
+                    'X-Access-Key': import.meta.env.VITE_ACCESS_KEY,
                     'X-JSON-Path': `$..users[?(@.id=="${userId.toLowerCase()}")]`,
                     'Content-Type': 'application/json'
                 }
